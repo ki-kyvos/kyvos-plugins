@@ -1,0 +1,8 @@
+{
+  "name": "kyvos",
+  "version": "1.0.0",
+  "description": "Connect to Kyvos semantic models for AI-powered data querying, anomaly detection, and analytics. Query data using natural language, detect outliers, and explore datasets through Kyvos semantic layers.",
+  "author": {
+    "name": "Kyvos"
+  }
+}

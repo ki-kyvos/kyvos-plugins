@@ -1,0 +1,32 @@
+{
+  "name": "kyvos-plugins",
+  "owner": {
+    "name": "Kyvos Team",
+    "email": "support@kyvos.io"
+  },
+  "metadata": {
+    "description": "Official Kyvos plugins for Claude Cowork - enhanced data analysis and SQL query generation for analytics platforms",
+    "homepage": "https://github.com/ki-kyvos/kyvos-plugins",
+    "repository": "https://github.com/ki-kyvos/kyvos-plugins"
+  },
+  "plugins": [
+    {
+      "name": "kyvos",
+      "source": "./plugins/kyvos",
+      "version": "1.0.0",
+      "description": "Data analysis plugin customized for Kyvos analytics platform with SQL query generation, semantic models, and business intelligence workflows",
+      "author": {
+        "name": "Kyvos Team",
+        "email": "support@kyvos.io"
+      },
+      "keywords": [
+        "data-analysis",
+        "sql",
+        "analytics",
+        "business-intelligence",
+        "kyvos",
+        "semantic-models"
+      ]
+    }
+  ]
+}
