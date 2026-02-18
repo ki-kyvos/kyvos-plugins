@@ -32,4 +32,4 @@ kyvos-plugins/
 
 ## Support
 
-For issues or questions, please open an issue on GitHub or contact support@kyvos.io
+For issues or questions, please contact support@kyvos.io
